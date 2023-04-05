@@ -8,7 +8,7 @@ The dataset used in this project consists of fulltrain.csv and balancedtest.csv,
 
 ## Models
 
-The trained models used in this project are also too large to be included in this repository. The trained XLNet, RNN and LSTM models can be obtained from [here](https://drive.google.com/drive/folders/0987654321abcdefghijklmnopqrstuvwxyz).
+The trained models used in this project are also too large to be included in this repository. The trained XLNet, RNN and LSTM models can be obtained from [here](https://drive.google.com/drive/folders/1TBGME3lL7DEv7XQwdG-c8Biq8wxZOGmV?usp=share_link).
 
 ## Source Code
 
