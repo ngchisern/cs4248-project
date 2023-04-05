@@ -1,4 +1,5 @@
 # cs4248-project: Labeled Unreliable News
+> Chi Sern, Kian En, En En, Ethan Wong, Chester Soh, Jayson Lam
 
 This repository contains the source code and model predictions for our project. The goal of the project is to classify news articles into one of "Satire", "Hoax", "Propaganda", and "Reliable News".
 
